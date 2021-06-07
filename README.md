@@ -1,0 +1,2 @@
+# snyk-cicd
+snyk test
